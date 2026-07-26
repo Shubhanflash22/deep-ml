@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-05T17:11:13.344Z",
+  "items": {
+    "problem:834": {
+      "kind": "problem",
+      "id": "834",
+      "title": "Micro F1 Score for Multi-Label Classification",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/834",
+      "path": "problems/0834-micro-f1-score-for-multi-label-classification",
+      "first_solved_at": "2026-07-26T00:04:05.101Z",
+      "last_pushed_at": "2026-07-26T00:04:05.101Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:407": {
+      "kind": "problem",
+      "id": "407",
+      "title": "QK-Norm (Query-Key Normalization)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/407",
+      "path": "problems/0407-qk-norm-query-key-normalization",
+      "first_solved_at": "2026-07-26T15:24:47.391Z",
+      "last_pushed_at": "2026-07-26T15:24:47.391Z",
+      "language": "python",
+      "lines": 39
+    }
+  }
+}
