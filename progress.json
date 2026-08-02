@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:11:26.473Z",
+  "generated_at": "2026-10-05T17:11:28.478Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -104,6 +104,19 @@
       "last_pushed_at": "2026-08-01T15:24:04.021Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:762": {
+      "kind": "problem",
+      "id": "762",
+      "title": "Mode-Dependent Context Window Evaluation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/762",
+      "path": "problems/0762-mode-dependent-context-window-evaluation",
+      "first_solved_at": "2026-08-02T15:18:56.263Z",
+      "last_pushed_at": "2026-08-02T15:18:56.263Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }

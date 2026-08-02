@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2026-07-29 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-08-01 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
+| [Mode-Dependent Context Window Evaluation](https://www.deep-ml.com/problems/762) | easy | 2026-08-02 | [solution](problems/0762-mode-dependent-context-window-evaluation) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-07-30 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Micro F1 Score for Multi-Label Classification](https://www.deep-ml.com/problems/834) | medium | 2026-07-26 | [solution](problems/0834-micro-f1-score-for-multi-label-classification) |
 | [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-07-26 | [solution](problems/0407-qk-norm-query-key-normalization) |
