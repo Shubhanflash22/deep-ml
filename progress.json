@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:11:28.478Z",
+  "generated_at": "2026-10-05T17:11:30.715Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -117,6 +117,19 @@
       "last_pushed_at": "2026-08-02T15:18:56.263Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:820": {
+      "kind": "problem",
+      "id": "820",
+      "title": "Incremental PCA with Partial Fit",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/820",
+      "path": "problems/0820-incremental-pca-with-partial-fit",
+      "first_solved_at": "2026-08-03T14:30:04.332Z",
+      "last_pushed_at": "2026-08-03T14:30:04.332Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
