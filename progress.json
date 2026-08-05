@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:11:32.735Z",
+  "generated_at": "2026-10-05T17:11:34.846Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -143,6 +143,19 @@
       "last_pushed_at": "2026-08-04T18:11:39.418Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:347": {
+      "kind": "problem",
+      "id": "347",
+      "title": "XGBoost Objective Function Calculation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/347",
+      "path": "problems/0347-xgboost-objective-function-calculation",
+      "first_solved_at": "2026-08-05T17:38:28.088Z",
+      "last_pushed_at": "2026-08-05T17:38:28.088Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
