@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 12 problems · 0 labs · 0 math
+**13** solved · 13 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Speculative Decoding Acceptance Rate vs Temperature](https://www.deep-ml.com/problems/433) | medium | 2026-07-27 | [solution](problems/0433-speculative-decoding-acceptance-rate-vs-temperature) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-07-31 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-08-05 | [solution](problems/0347-xgboost-objective-function-calculation) |
+| [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-08-06 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-07-28 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
 
 ---
