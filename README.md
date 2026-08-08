@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-07-31 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-08-05 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-08-06 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
+| [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-08-08 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-07-28 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
 
 ---
