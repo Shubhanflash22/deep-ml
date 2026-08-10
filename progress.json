@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:11:44.220Z",
+  "generated_at": "2026-10-05T17:11:46.320Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -208,6 +208,19 @@
       "last_pushed_at": "2026-08-09T15:38:37.179Z",
       "language": "sql",
       "lines": 12
+    },
+    "problem:830": {
+      "kind": "problem",
+      "id": "830",
+      "title": "Local Outlier Factor (LOF) Anomaly Score",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/830",
+      "path": "problems/0830-local-outlier-factor-lof-anomaly-score",
+      "first_solved_at": "2026-08-10T18:11:52.301Z",
+      "last_pushed_at": "2026-08-10T18:11:52.301Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
