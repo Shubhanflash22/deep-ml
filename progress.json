@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:11:48.902Z",
+  "generated_at": "2026-10-05T17:11:50.844Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -234,6 +234,19 @@
       "last_pushed_at": "2026-08-11T15:25:57.683Z",
       "language": "python",
       "lines": 136
+    },
+    "problem:890": {
+      "kind": "problem",
+      "id": "890",
+      "title": "Reshape and Transpose a Tinygrad Tensor",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/890",
+      "path": "problems/0890-reshape-and-transpose-a-tinygrad-tensor",
+      "first_solved_at": "2026-08-12T18:54:36.974Z",
+      "last_pushed_at": "2026-08-12T18:54:36.974Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
