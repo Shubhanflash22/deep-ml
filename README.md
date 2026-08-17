@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 23 problems · 0 labs · 0 math
+**24** solved · 24 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-07-30 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Incremental PCA with Partial Fit](https://www.deep-ml.com/problems/820) | medium | 2026-08-03 | [solution](problems/0820-incremental-pca-with-partial-fit) |
 | [Local Outlier Factor (LOF) Anomaly Score](https://www.deep-ml.com/problems/830) | medium | 2026-08-10 | [solution](problems/0830-local-outlier-factor-lof-anomaly-score) |
+| [Mask Instruction Tokens for Loss Computation](https://www.deep-ml.com/problems/1066) | medium | 2026-08-17 | [solution](problems/1066-mask-instruction-tokens-for-loss-computation) |
 | [Micro F1 Score for Multi-Label Classification](https://www.deep-ml.com/problems/834) | medium | 2026-07-26 | [solution](problems/0834-micro-f1-score-for-multi-label-classification) |
 | [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-07-26 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [Speculative Decoding Acceptance Rate vs Temperature](https://www.deep-ml.com/problems/433) | medium | 2026-07-27 | [solution](problems/0433-speculative-decoding-acceptance-rate-vs-temperature) |
