@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:12:03.699Z",
+  "generated_at": "2026-10-05T17:12:05.861Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -325,6 +325,19 @@
       "last_pushed_at": "2026-08-18T17:55:42.605Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:250": {
+      "kind": "problem",
+      "id": "250",
+      "title": "Calculate SLA Compliance Metrics for Model Service",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/250",
+      "path": "problems/0250-calculate-sla-compliance-metrics-for-model-service",
+      "first_solved_at": "2026-08-19T15:50:27.785Z",
+      "last_pushed_at": "2026-08-19T15:50:27.785Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
