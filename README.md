@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 35 problems · 0 labs · 0 math
+**36** solved · 36 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mask Instruction Tokens for Loss Computation](https://www.deep-ml.com/problems/1066) | medium | 2026-08-17 | [solution](problems/1066-mask-instruction-tokens-for-loss-computation) |
 | [Micro F1 Score for Multi-Label Classification](https://www.deep-ml.com/problems/834) | medium | 2026-07-26 | [solution](problems/0834-micro-f1-score-for-multi-label-classification) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-08-28 | [solution](problems/0247-negative-binomial-distribution-probability) |
+| [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-08-29 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-07-26 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [Speculative Decoding Acceptance Rate vs Temperature](https://www.deep-ml.com/problems/433) | medium | 2026-07-27 | [solution](problems/0433-speculative-decoding-acceptance-rate-vs-temperature) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-08-26 | [solution](problems/0231-temperature-decay-scheduler) |
