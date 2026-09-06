@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:12:43.464Z",
+  "generated_at": "2026-10-05T17:12:45.303Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -559,6 +559,19 @@
       "last_pushed_at": "2026-09-05T18:43:07.986Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:474": {
+      "kind": "problem",
+      "id": "474",
+      "title": "Off-Policy Monte Carlo Control with Weighted Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/474",
+      "path": "problems/0474-off-policy-monte-carlo-control-with-weighted-importance-sampling",
+      "first_solved_at": "2026-09-06T18:00:39.653Z",
+      "last_pushed_at": "2026-09-06T18:00:39.653Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
