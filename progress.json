@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:13:00.857Z",
+  "generated_at": "2026-10-05T17:13:03.048Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -650,6 +650,19 @@
       "last_pushed_at": "2026-09-12T15:57:52.824Z",
       "language": "python",
       "lines": 59
+    },
+    "problem:204": {
+      "kind": "problem",
+      "id": "204",
+      "title": "Mutual Information",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/204",
+      "path": "problems/0204-mutual-information",
+      "first_solved_at": "2026-09-13T17:40:27.572Z",
+      "last_pushed_at": "2026-09-13T17:40:27.572Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
