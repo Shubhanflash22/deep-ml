@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 53 problems · 0 labs · 0 math
+**54** solved · 54 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-09-05 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2026-07-29 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate SLA Compliance Metrics for Model Service](https://www.deep-ml.com/problems/250) | easy | 2026-08-19 | [solution](problems/0250-calculate-sla-compliance-metrics-for-model-service) |
+| [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-16 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Construct Causal Attention Mask via tril and triu Methods](https://www.deep-ml.com/problems/965) | easy | 2026-08-27 | [solution](problems/0965-construct-causal-attention-mask-via-tril-and-triu-methods) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-08-16 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-08-01 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
