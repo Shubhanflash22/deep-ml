@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:13:17.658Z",
+  "generated_at": "2026-10-05T17:13:19.865Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -728,6 +728,19 @@
       "last_pushed_at": "2026-09-18T15:21:33.447Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:825": {
+      "kind": "problem",
+      "id": "825",
+      "title": "BIRCH Clustering for Large Datasets",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/825",
+      "path": "problems/0825-birch-clustering-for-large-datasets",
+      "first_solved_at": "2026-09-20T15:41:50.256Z",
+      "last_pushed_at": "2026-09-20T15:41:50.256Z",
+      "language": "python",
+      "lines": 105
     }
   }
 }
