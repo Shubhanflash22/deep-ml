@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 60 problems · 0 labs · 0 math
+**61** solved · 61 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-08-14 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
 | [Data-Efficient Action Mapping with Few Labeled Expert Samples](https://www.deep-ml.com/problems/728) | medium | 2026-08-31 | [solution](problems/0728-data-efficient-action-mapping-with-few-labeled-expert-samples) |
 | [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-08-07 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
+| [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-24 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Highest Total Daily Order Cost in a Date Range](https://www.deep-ml.com/problems/1120) | medium | 2026-08-24 | [solution](problems/1120-highest-total-daily-order-cost-in-a-date-range) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-07 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-07-30 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
