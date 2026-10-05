@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**71** solved · 71 problems · 0 labs · 0 math
+**72** solved · 72 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-01 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Mode-Dependent Context Window Evaluation](https://www.deep-ml.com/problems/762) | easy | 2026-08-02 | [solution](problems/0762-mode-dependent-context-window-evaluation) |
 | [Per-Token Decode Latency from Memory Bandwidth](https://www.deep-ml.com/problems/1214) | easy | 2026-08-21 | [solution](problems/1214-per-token-decode-latency-from-memory-bandwidth) |
+| [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-10-05 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Rejection Sampling Best-of-K Selection](https://www.deep-ml.com/problems/768) | easy | 2026-09-21 | [solution](problems/0768-rejection-sampling-best-of-k-selection) |
 | [Reshape and Transpose a Tinygrad Tensor](https://www.deep-ml.com/problems/890) | easy | 2026-08-12 | [solution](problems/0890-reshape-and-transpose-a-tinygrad-tensor) |
 | [Row-Normalize a Count Matrix to Probabilities](https://www.deep-ml.com/problems/985) | easy | 2026-09-03 | [solution](problems/0985-row-normalize-a-count-matrix-to-probabilities) |
