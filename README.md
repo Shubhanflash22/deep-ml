@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 76 problems · 0 labs · 0 math
+**77** solved · 77 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -78,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tree and Graph Coding Drills](https://www.deep-ml.com/problems/1090) | medium | 2026-08-25 | [solution](problems/1090-tree-and-graph-coding-drills) |
 | [Values Appearing Three or More Times Consecutively](https://www.deep-ml.com/problems/1117) | medium | 2026-08-09 | [solution](problems/1117-values-appearing-three-or-more-times-consecutively) |
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-08-05 | [solution](problems/0347-xgboost-objective-function-calculation) |
+| [Zero-Copy Batch Data Loading from Shared Memory](https://www.deep-ml.com/problems/659) | medium | 2026-10-10 | [solution](problems/0659-zero-copy-batch-data-loading-from-shared-memory) |
 | [Differential Sarsa Algorithm](https://www.deep-ml.com/problems/541) | hard | 2026-08-18 | [solution](problems/0541-differential-sarsa-algorithm) |
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-08-06 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
 | [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-08-23 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |
