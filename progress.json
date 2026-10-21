@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:00:06.771Z",
+  "generated_at": "2026-10-21T15:19:47.357Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -1118,6 +1118,19 @@
       "last_pushed_at": "2026-10-20T18:00:05.642Z",
       "language": "python",
       "lines": 62
+    },
+    "problem:514": {
+      "kind": "problem",
+      "id": "514",
+      "title": "Random Walk: TD vs Monte Carlo",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/514",
+      "path": "problems/0514-random-walk-td-vs-monte-carlo",
+      "first_solved_at": "2026-10-21T15:19:47.670Z",
+      "last_pushed_at": "2026-10-21T15:19:47.670Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
