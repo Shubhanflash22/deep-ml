@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**87** solved · 87 problems · 0 labs · 0 math
+**88** solved · 88 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -99,6 +99,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Successor Representation Learning](https://www.deep-ml.com/problems/597) | hard | 2026-09-30 | [solution](problems/0597-successor-representation-learning) |
 | [Temporal Abstraction with Options](https://www.deep-ml.com/problems/587) | hard | 2026-08-11 | [solution](problems/0587-temporal-abstraction-with-options) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-09-23 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
+| [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
 
 ---
 
