@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T20:04:14.575Z",
+  "generated_at": "2026-11-05T16:53:24.012Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -1287,6 +1287,19 @@
       "last_pushed_at": "2026-11-04T20:04:12.652Z",
       "language": "python",
       "lines": 77
+    },
+    "problem:1595": {
+      "kind": "problem",
+      "id": "1595",
+      "title": "Loss-of-Plasticity Diagnostics: Dormant Units and Effective Rank",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1595",
+      "path": "problems/1595-loss-of-plasticity-diagnostics-dormant-units-and-effective-rank",
+      "first_solved_at": "2026-11-05T16:53:23.761Z",
+      "last_pushed_at": "2026-11-05T16:53:23.761Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }

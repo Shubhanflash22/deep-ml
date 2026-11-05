@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 99 problems · 0 labs · 0 math
+**100** solved · 100 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-10-08 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-09-11 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-09-27 | [solution](problems/0045-linear-kernel-function) |
+| [Loss-of-Plasticity Diagnostics: Dormant Units and Effective Rank](https://www.deep-ml.com/problems/1595) | easy | 2026-11-05 | [solution](problems/1595-loss-of-plasticity-diagnostics-dormant-units-and-effective-rank) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-01 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Mode-Dependent Context Window Evaluation](https://www.deep-ml.com/problems/762) | easy | 2026-08-02 | [solution](problems/0762-mode-dependent-context-window-evaluation) |
 | [Per-Token Decode Latency from Memory Bandwidth](https://www.deep-ml.com/problems/1214) | easy | 2026-08-21 | [solution](problems/1214-per-token-decode-latency-from-memory-bandwidth) |
