@@ -25,7 +25,7 @@ def f_score(y_true, y_pred, beta):
 			tn = tn + 1
 		else:
 			fp = fp + 1
-	prec = tp / (tp + fp)
-	rec = tp / (tp + fn)
+	prec = tp / (tp + fp) if (tp + fp) > 0 else 0
+	rec = tp / (tp + fn) if (tp + fn) > 0 else 0
 	f1 = (1 + beta * beta) * prec * rec / ((beta*beta*prec) + rec) 
 	return round(f1,3)
