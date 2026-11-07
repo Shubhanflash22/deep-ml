@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T16:25:39.088Z",
+  "generated_at": "2026-11-07T16:16:16.036Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -1313,6 +1313,19 @@
       "last_pushed_at": "2026-11-06T16:25:39.643Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:1511": {
+      "kind": "problem",
+      "id": "1511",
+      "title": "Algebraic Simplification with Canonical Forms",
+      "difficulty": "medium",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1511",
+      "path": "problems/1511-algebraic-simplification-with-canonical-forms",
+      "first_solved_at": "2026-11-07T16:16:17.917Z",
+      "last_pushed_at": "2026-11-07T16:16:17.917Z",
+      "language": "python",
+      "lines": 122
     }
   }
 }
