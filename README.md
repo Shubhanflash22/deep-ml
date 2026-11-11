@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**105** solved · 105 problems · 0 labs · 0 math
+**106** solved · 106 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -82,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-11-02 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [Looped Transformer Stack Forward Pass](https://www.deep-ml.com/problems/1387) | medium | 2026-09-14 | [solution](problems/1387-looped-transformer-stack-forward-pass) |
 | [Mask Instruction Tokens for Loss Computation](https://www.deep-ml.com/problems/1066) | medium | 2026-08-17 | [solution](problems/1066-mask-instruction-tokens-for-loss-computation) |
+| [Memory Complexity: Full Space-Time vs. ST-Factorized Attention](https://www.deep-ml.com/problems/725) | medium | 2026-11-11 | [solution](problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention) |
 | [Micro F1 Score for Multi-Label Classification](https://www.deep-ml.com/problems/834) | medium | 2026-07-26 | [solution](problems/0834-micro-f1-score-for-multi-label-classification) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-09-13 | [solution](problems/0204-mutual-information) |
 | [Negative Binomial Distribution Probability](https://www.deep-ml.com/problems/247) | medium | 2026-08-28 | [solution](problems/0247-negative-binomial-distribution-probability) |
