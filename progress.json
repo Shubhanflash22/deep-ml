@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:32:27.886Z",
+  "generated_at": "2026-11-14T16:37:41.338Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -1404,6 +1404,19 @@
       "last_pushed_at": "2026-11-13T20:32:27.343Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:1513": {
+      "kind": "problem",
+      "id": "1513",
+      "title": "Floor-Division and Modulo Folding for Index Math",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1513",
+      "path": "problems/1513-floor-division-and-modulo-folding-for-index-math",
+      "first_solved_at": "2026-11-14T16:37:41.476Z",
+      "last_pushed_at": "2026-11-14T16:37:41.476Z",
+      "language": "python",
+      "lines": 105
     }
   }
 }
