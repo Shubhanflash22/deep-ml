@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**109** solved · 109 problems · 0 labs · 0 math
+**110** solved · 110 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -93,6 +93,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Omitted-Variable Bias](https://www.deep-ml.com/problems/1358) | medium | 2026-09-17 | [solution](problems/1358-omitted-variable-bias) |
 | [Permutation Feature Importance](https://www.deep-ml.com/problems/812) | medium | 2026-10-06 | [solution](problems/0812-permutation-feature-importance) |
 | [Poisson Deviance and Overdispersion](https://www.deep-ml.com/problems/1367) | medium | 2026-09-29 | [solution](problems/1367-poisson-deviance-and-overdispersion) |
+| [Pooled Mean and Pooled Standard Deviation from Summary Stats](https://www.deep-ml.com/problems/1244) | medium | 2026-11-15 | [solution](problems/1244-pooled-mean-and-pooled-standard-deviation-from-summary-stats) |
 | [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-07-26 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [Random Walk: TD vs Monte Carlo](https://www.deep-ml.com/problems/514) | medium | 2026-10-21 | [solution](problems/0514-random-walk-td-vs-monte-carlo) |
 | [Resource Dilation Factor for Scheduling](https://www.deep-ml.com/problems/623) | medium | 2026-10-04 | [solution](problems/0623-resource-dilation-factor-for-scheduling) |
