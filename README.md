@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**118** solved · 118 problems · 0 labs · 0 math
+**119** solved · 119 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -107,6 +107,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoidal Accuracy-to-Log-Likelihood Scaling Law Fit](https://www.deep-ml.com/problems/790) | medium | 2026-09-09 | [solution](problems/0790-sigmoidal-accuracy-to-log-likelihood-scaling-law-fit) |
 | [Speculative Decoding Acceptance Rate vs Temperature](https://www.deep-ml.com/problems/433) | medium | 2026-07-27 | [solution](problems/0433-speculative-decoding-acceptance-rate-vs-temperature) |
 | [Temperature Decay Scheduler](https://www.deep-ml.com/problems/231) | medium | 2026-08-26 | [solution](problems/0231-temperature-decay-scheduler) |
+| [Tensor Puzzle: Bincount by Scatter-Add](https://www.deep-ml.com/problems/1282) | medium | 2026-11-24 | [solution](problems/1282-tensor-puzzle-bincount-by-scatter-add) |
 | [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-07-31 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Thread-Safe Producer-Consumer Bounded Buffer](https://www.deep-ml.com/problems/1100) | medium | 2026-09-02 | [solution](problems/1100-thread-safe-producer-consumer-bounded-buffer) |
 | [Tokens-per-Second Throughput from Inference Intervals](https://www.deep-ml.com/problems/1032) | medium | 2026-10-23 | [solution](problems/1032-tokens-per-second-throughput-from-inference-intervals) |
