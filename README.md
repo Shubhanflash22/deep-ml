@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**119** solved · 119 problems · 0 labs · 0 math
+**120** solved · 120 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-09-27 | [solution](problems/0045-linear-kernel-function) |
 | [Loss-of-Plasticity Diagnostics: Dormant Units and Effective Rank](https://www.deep-ml.com/problems/1595) | easy | 2026-11-05 | [solution](problems/1595-loss-of-plasticity-diagnostics-dormant-units-and-effective-rank) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-01 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-11-25 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Mode-Dependent Context Window Evaluation](https://www.deep-ml.com/problems/762) | easy | 2026-08-02 | [solution](problems/0762-mode-dependent-context-window-evaluation) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-11-17 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
 | [Optimal Policy from a Loss Matrix](https://www.deep-ml.com/problems/1755) | easy | 2026-11-23 | [solution](problems/1755-optimal-policy-from-a-loss-matrix) |
