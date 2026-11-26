@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:18:06.803Z",
+  "generated_at": "2026-11-26T16:28:29.392Z",
   "items": {
     "problem:834": {
       "kind": "problem",
@@ -1560,6 +1560,19 @@
       "last_pushed_at": "2026-11-25T18:18:05.790Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:1809": {
+      "kind": "problem",
+      "id": "1809",
+      "title": "Laplace-Approximate Bayesian Logistic Regression: Monte Carlo and Probit Predictives",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1809",
+      "path": "problems/1809-laplace-approximate-bayesian-logistic-regression-monte-carlo-and-probit-predictives",
+      "first_solved_at": "2026-11-26T16:28:29.169Z",
+      "last_pushed_at": "2026-11-26T16:28:29.169Z",
+      "language": "python",
+      "lines": 77
     }
   }
 }

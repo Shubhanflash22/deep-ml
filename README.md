@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**120** solved · 120 problems · 0 labs · 0 math
+**121** solved · 121 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -124,6 +124,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-08-06 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
 | [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-08-23 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-08-08 | [solution](problems/0101-implement-the-grpo-objective-function) |
+| [Laplace-Approximate Bayesian Logistic Regression: Monte Carlo and Probit Predictives](https://www.deep-ml.com/problems/1809) | hard | 2026-11-26 | [solution](problems/1809-laplace-approximate-bayesian-logistic-regression-monte-carlo-and-probit-predictives) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-11-19 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Off-Policy Monte Carlo Control with Weighted Importance Sampling](https://www.deep-ml.com/problems/474) | hard | 2026-09-06 | [solution](problems/0474-off-policy-monte-carlo-control-with-weighted-importance-sampling) |
 | [Off-Policy n-Step TD Prediction with Importance Sampling](https://www.deep-ml.com/problems/549) | hard | 2026-09-12 | [solution](problems/0549-off-policy-n-step-td-prediction-with-importance-sampling) |
