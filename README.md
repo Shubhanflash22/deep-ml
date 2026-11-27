@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**121** solved · 121 problems · 0 labs · 0 math
+**122** solved · 122 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -73,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Diffusion Model U-Net Time Embedding](https://www.deep-ml.com/problems/399) | medium | 2026-09-26 | [solution](problems/0399-diffusion-model-u-net-time-embedding) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-28 | [solution](problems/0151-dropout-layer) |
 | [Dynamic Programming Drills: Knapsack and Grid Paths](https://www.deep-ml.com/problems/1149) | medium | 2026-10-07 | [solution](problems/1149-dynamic-programming-drills-knapsack-and-grid-paths) |
+| [Feature Density and Approximation Quality](https://www.deep-ml.com/problems/607) | medium | 2026-11-27 | [solution](problems/0607-feature-density-and-approximation-quality) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-24 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-09-25 | [solution](problems/0303-forward-diffusion-process) |
 | [Graph Auto-Encoder: GCN Encoder, Inner-Product Decoder and Reconstruction BCE](https://www.deep-ml.com/problems/1901) | medium | 2026-11-21 | [solution](problems/1901-graph-auto-encoder-gcn-encoder-inner-product-decoder-and-reconstruction-bce) |
